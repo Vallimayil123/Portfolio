@@ -72,7 +72,7 @@ function Hero() {
           </div>
 
           <a
-            href="/resume.pdf"
+            href="/Resume.pdf"
             download
           >
             <button className="mt-8 bg-blue-500 px-8 py-3 rounded-xl hover:bg-blue-600 transition">
