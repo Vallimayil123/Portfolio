@@ -30,12 +30,12 @@ function Projects() {
     },
 
     {
-      title: "Moon Landing Website",
-      tech: "HTML • CSS • JavaScript",
+      title: "Offline AI Vehicle Assistant",
+      tech: "Python • RAG • Streamlit • LLM ",
       github:
-        "https://github.com/Vallimayil123/Day-4-PL-Training/tree/main/Moon%20Landing",
+        "https://github.com/Vallimayil123/offline-vehicle-assistant",
       description:
-        "Responsive static website about the Apollo Moon Landing.",
+        "An intelligent assistant that can answer vehicle-related questions, explain dashboard warning lights, and help troubleshoot common problems — even without an internet connection.",
     },
   ];
 
